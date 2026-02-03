@@ -2,7 +2,7 @@
 
 Passive I2C bus analyzer for Pico 2W. Sniffs I2C traffic without interfering with the bus.
 
-**GitHub:** (create with `gh repo create PicoProbe --public --source=. --push`)
+**GitHub:** https://github.com/jchmiel123/PicoProbe
 
 ## Quick Start
 
